@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Isaac 👋
 
-<!--
-**isaacser8/isaacser8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at the **National University of Singapore (NUS)**.
 
-Here are some ideas to get you started:
+I'm especially interested in **game development and the technology behind games** — from gameplay systems to game engines and graphics. I'm also exploring **data science** and **cybersecurity** as I figure out where I want to specialise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science @ NUS
+- 🧑‍🏫 Teaching Assistant for **CS1231S — Discrete Structures**
+- 🎮 Interested in **game development**
+- ⚙️ Curious about **game engines, graphics, and low-level game technology**
+- 📊 Exploring **data science and analytics**
+- 🔐 Interested in **cybersecurity**
+
+## 🛠️ Technologies
+
+**Languages:** Java • Python • C  
+**Tools:** Git • GitHub • VS Code
+
+## 🚧 Currently
+
+- 💻 Building software engineering projects in **Java**
+- ⚙️ Learning more about **computer systems and low-level programming**
+- 🎮 Looking to build more projects around **games and interactive systems**
+
+## 📫 Connect With Me
+
+- LinkedIn: Coming soon!
